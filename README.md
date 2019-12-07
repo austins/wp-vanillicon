@@ -7,3 +7,7 @@ This is a WordPress plugin that lets you set Vanillicon v1 as the default avatar
 This does not interfere with Gravatar. If a user has a image set via Gravatar, their Gravatar image will be shown instead.
 
 Tested with WordPress v5.3.
+
+## Installation
+
+Place `vanillicon.php` in your `/wp-content/plugins` directory and activate the plugin from the admin page.
